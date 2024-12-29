@@ -1,0 +1,4 @@
+transformers
+torch
+pyttsx3
+SpeechRecognition
